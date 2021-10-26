@@ -1,0 +1,13 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css";
+
+p {
+    font-family: Lato;    
+}
+
+table > thead >tr >th >mfdefaultsorter > a {
+    color: red !important;
+}
+a{
+ color: #CCCCCC !important;   
+ text-decoration: none;
+}
